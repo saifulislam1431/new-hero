@@ -9,7 +9,7 @@
 
 .header{
     background-image: url(./images/banner/banner3.png);
-    height: 60vh;
+    height: 70vh;
     background-size: cover;
 }
 
@@ -48,4 +48,68 @@
     border: 1px solid white;
     color: white;
 
+}
+
+/* Failures Section Style */
+
+.failures{
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    justify-content: center;
+    margin: 180px 150px 120px 250px; 
+
+}
+
+.hero-img{
+    width: 460px;
+    height: 450px;
+}
+
+.list-items{
+    list-style: none;
+    padding-top: 20px;
+}
+
+.list-item{
+    padding-top: 15px;
+}
+.tick{
+    width: 16px;
+    height: 16px;
+}
+
+.section-title{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.my-plans{
+    text-align: center;
+    margin: 150px;
+}
+
+/* My plans Style */
+
+.plans{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.plan{
+    padding: 30px;
+}
+
+.plan-title{
+    font-size: 18px;
+}
+
+.plan-description{
+    padding: 10px;
+}
+.plan-img{
+    height: 70px;
+    padding-bottom: 20px;
 }
