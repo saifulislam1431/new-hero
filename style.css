@@ -181,3 +181,54 @@
     margin-bottom: 20px;
 
 }
+
+
+.footer{
+    background-color: black;
+    height: 40vh;
+}
+
+.footer-container{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
+   margin: 150px 0;
+   color: white;
+}
+
+.contact{
+    padding-top: 60px;
+}
+
+.footer-description{
+    padding: 20px 0;
+    font-size: 14px;
+    line-height: 20px;
+}
+.contact-info{
+    padding-bottom: 20px;
+}
+
+.social-icon{
+    width: 36px;
+    margin-right: 8px;
+    margin-top: 8px;
+}
+
+.sub-title{
+    padding-bottom: 20px;
+}
+
+input[type="email"]{
+    padding: 20px;
+    width: 280px;
+    margin: 20px 0;
+    background-color: black ;
+    border: 1px solid #005FAC;
+    border-radius: 10px;
+}
+
+input::placeholder{
+    color: white;
+}
