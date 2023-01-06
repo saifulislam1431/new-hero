@@ -95,8 +95,10 @@
     display: flex;
     text-align: center;
     justify-content: center;
+    text-align: center;
     padding: 20px;
 }
+
 
 .plan{
     padding: 30px;
@@ -112,4 +114,70 @@
 .plan-img{
     height: 70px;
     padding-bottom: 20px;
+}
+
+/* My skills style */
+
+.my-skills{
+ margin-bottom: 90px;
+}
+
+
+.section-title{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.skills-container{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill{
+    background-color: white;
+    box-shadow: 5px 10px 18px grey;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.skill:hover{
+    box-shadow: 5px 10px 18px #005FAC;
+
+}
+
+.skill-title{
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+
+/* MindSet */
+
+.mindset{
+    background-image: url(./images/watch.png),url(./images/gradient1.png);
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-position: center;
+    margin-bottom: 80px;
+
+    height: 25vh;
+}
+
+.mindset-description{
+    padding-top: 50px ;
+    padding-left: 100px;
+}
+
+.caption{
+
+    color: white;
+    margin-bottom: 20px;
+
 }
