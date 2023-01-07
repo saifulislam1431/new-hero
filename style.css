@@ -164,7 +164,7 @@
     border-radius: 10px;
     background-repeat: no-repeat;
     background-blend-mode: overlay;
-    margin-left: 250px;
+    margin-left: 290px;
     margin-right: 100px;
     margin-bottom: 80px;
     height: 25vh;
@@ -193,7 +193,6 @@
     gap: 100px;
     align-items: center;
     justify-content: center;
-   margin: 150px 0;
    color: white;
 }
 
@@ -224,7 +223,7 @@ input[type="email"]{
     padding: 20px;
     width: 280px;
     margin: 20px 0;
-    background-color: black ;
+    background-color: transparent ;
     border: 1px solid #005FAC;
     border-radius: 10px;
 }
