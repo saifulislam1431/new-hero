@@ -164,15 +164,15 @@
     border-radius: 10px;
     background-repeat: no-repeat;
     background-blend-mode: overlay;
-    background-position: center;
+    margin-left: 250px;
+    margin-right: 100px;
     margin-bottom: 80px;
-
     height: 25vh;
 }
 
 .mindset-description{
     padding-top: 50px ;
-    padding-left: 100px;
+    margin-left: 100px;
 }
 
 .caption{
@@ -182,7 +182,7 @@
 
 }
 
-
+/* Footer Section style */
 .footer{
     background-color: black;
     height: 40vh;
