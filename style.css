@@ -145,7 +145,7 @@
 }
 
 .skill:hover{
-    box-shadow: 5px 10px 18px #005FAC;
+    box-shadow: 5px 5px 10px #005FAC;
 
 }
 
@@ -164,8 +164,8 @@
     border-radius: 10px;
     background-repeat: no-repeat;
     background-blend-mode: overlay;
-    margin-left: 290px;
-    margin-right: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
     margin-bottom: 80px;
     height: 25vh;
 }
